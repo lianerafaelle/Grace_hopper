@@ -1,10 +1,10 @@
 const images = [
-    'racehopper/Graceanalista.jpg',
-    'gracehopper/Gracedandoaula.jpg',
-    'gracehopper/graceemmaquinas.jpeg',
-    'gracehopper/gracejovem.jpg', 
-    'gracehooper/Gracerecebendomedalhas.jpg', 
-    'gracehooper/graceatual.jpg',
+    'img/graceanalista.jpg',
+    'img/gracedandoaula.jpg',
+    'img/graceemmaquinas.jpeg',
+    'img/gracejovem.jpg', 
+    'img/Gracerecebendomedalhas.jpg', 
+    'img/graceatual.jpg',
 ];
 
 const descriptions = [
