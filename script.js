@@ -3,7 +3,7 @@ const images = [
     'img/gracedandoaula.jpg',
     'img/graceemmaquinas.jpeg',
     'img/gracejovem.jpg', 
-    'img/Gracerecebendomedalhas.jpg', 
+    'img/gracerecebendomedalhas.jpg', 
     'img/graceatual.jpg',
 ];
 
