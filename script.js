@@ -1,9 +1,9 @@
 const images = [
-    'gracehopper/graceanalista.jpg',
-    'gracehopper/gracedandoaula.jpg',
+    'racehopper/Graceanalista.jpg',
+    'gracehopper/Gracedandoaula.jpg',
     'gracehopper/graceemmaquinas.jpeg',
     'gracehopper/gracejovem.jpg', 
-    'gracehooper/gracerecebendomedalhas.jpg', 
+    'gracehooper/Gracerecebendomedalhas.jpg', 
     'gracehooper/graceatual.jpg',
 ];
 
